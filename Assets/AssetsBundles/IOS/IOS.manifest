@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.34f1
+CRC: 2306070877
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mesh
+      Dependencies:
+        Dependency_0: texture
+    Info_1:
+      Name: texture
+      Dependencies: {}

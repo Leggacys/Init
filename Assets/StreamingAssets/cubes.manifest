@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.34f1
+CRC: 574151384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c036e8ed35a035b423a198c8dac49511
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02891d9e88e5268131f274408ebabf71
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 586d7cabf27cf1608af5ea0637b76e5f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Cube.prefab
+Dependencies: []

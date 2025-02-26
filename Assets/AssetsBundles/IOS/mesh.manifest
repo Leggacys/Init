@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.34f1
+CRC: 2276373655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f600458f25d782dfb67bb4a17a56575
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5785a96fba37ab47fdec9d56e33cd0e1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b06aa45308eb8fac3515f6863de9c10
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/mesh/KleaV4.fbx
+- Assets/mesh/New Material.mat
+Dependencies:
+- D:/WORK/OnDemand/Assets/AssetsBundles/IOS/texture

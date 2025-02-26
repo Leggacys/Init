@@ -1,0 +1,14 @@
+{
+  "Bundles": {
+    "mesh": {
+      "Hash": "bf02754864c0515f3d5aeea90b6aa60c",
+      "Timestamp": "2025-02-25T11:25:41.4151927+01:00",
+      "Size": 7742556
+    },
+    "texture": {
+      "Hash": "9d6e7a1b8f87e1f9f48cf25d57a8affb",
+      "Timestamp": "2025-02-25T11:25:41.5475581+01:00",
+      "Size": 360704
+    }
+  }
+}

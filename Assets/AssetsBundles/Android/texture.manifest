@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.34f1
+CRC: 2933061607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58540dd85069bc43053e11f4b579dde6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8deb23b31ed89dfe899cd135acc97ca8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/mesh/klea_hair_tileB_specular.png
+Dependencies: []
